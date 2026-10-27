@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# Local account data
+bank_data.json
+
+# Pytest cache
+.pytest_cache/
